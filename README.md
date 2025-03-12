@@ -25,4 +25,4 @@ Want some support on the challenge? [Join our community](https://www.frontendmen
 
 ## Demo
 
-For a live demo click [here]()
+For a live demo click [here](https://yves-t.github.io/fem_product_preview_challenge/)
